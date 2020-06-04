@@ -1,3 +1,5 @@
+# 【Deprecated】 This feature have been merged into apidoc
+
 # apiDoc
 
 apiDoc creates a documentation from API descriptions in your source code.
